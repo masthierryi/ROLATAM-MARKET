@@ -21,6 +21,7 @@ body {
 .lista {
   flex: 1;
 }
+
 .detalhes {
   flex: 1.4;
   position: sticky;
