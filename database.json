@@ -1,0 +1,2100 @@
+{
+  "cartas": [
+    {
+      "id": "carta-agressor",
+      "nome": "Carta Agressor",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/agressor_card"
+    },
+    {
+      "id": "carta-alma-penada",
+      "nome": "Carta Alma Penada",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/alma_penada_card"
+    },
+    {
+      "id": "carta-am-mut",
+      "nome": "Carta Am Mut",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/am_mut_card"
+    },
+    {
+      "id": "carta-anaconda",
+      "nome": "Carta Anaconda",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/anaconda_card"
+    },
+    {
+      "id": "carta-anciao-ancestral",
+      "nome": "Carta Ancião Ancestral",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/anciao_ancestral_card"
+    },
+    {
+      "id": "carta-angeling",
+      "nome": "Carta Angeling",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/angeling_card"
+    },
+    {
+      "id": "carta-anjo-fajuto",
+      "nome": "Carta Anjo Fajuto",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/anjo_fajuto_card"
+    },
+    {
+      "id": "carta-anopheles",
+      "nome": "Carta Anopheles",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/anopheles_card"
+    },
+    {
+      "id": "carta-antigo-livro-danificado",
+      "nome": "Carta Antigo Livro Danificado",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/antigo_livro_danificado_card"
+    },
+    {
+      "id": "carta-anubis",
+      "nome": "Carta Anubis",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/anubis_card"
+    },
+    {
+      "id": "carta-aparicao",
+      "nome": "Carta Aparição",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/aparicao_card"
+    },
+    {
+      "id": "carta-apocalipse-infernal",
+      "nome": "Carta Apocalipse Infernal",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/apocalipse_infernal_card"
+    },
+    {
+      "id": "carta-aranha-gigante",
+      "nome": "Carta Aranha Gigante",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/aranha_gigante_card"
+    },
+    {
+      "id": "carta-aranha-pom",
+      "nome": "Carta Aranha Pom",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/aranha_pom_card"
+    },
+    {
+      "id": "carta-aranha-pomar",
+      "nome": "Carta Aranha Pomar",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/aranha_pomar_card"
+    },
+    {
+      "id": "carta-arclouse-do-pesadelo",
+      "nome": "Carta Arclouse do Pesadelo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/arclouse_do_pesadelo_card"
+    },
+    {
+      "id": "carta-arenoso",
+      "nome": "Carta Arenoso",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/arenoso_card"
+    },
+    {
+      "id": "carta-argiope",
+      "nome": "Carta Argiope",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/argiope_card"
+    },
+    {
+      "id": "carta-argos",
+      "nome": "Carta Argos",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/argos_card"
+    },
+    {
+      "id": "carta-armeyer-dinze",
+      "nome": "Carta Armeyer Dinze",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/armeyer_dinze_card"
+    },
+    {
+      "id": "carta-arqueiro-wootan",
+      "nome": "Carta Arqueiro Wootan",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/arqueiro_wootan_card"
+    },
+    {
+      "id": "carta-artilheiro-wootan",
+      "nome": "Carta Artilheiro Wootan",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/artilheiro_wootan_card"
+    },
+    {
+      "id": "carta-arvore-ancia",
+      "nome": "Carta Árvore Anciã",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/arvore_ancia_card"
+    },
+    {
+      "id": "carta-atria",
+      "nome": "Carta Atria",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/atria_card"
+    },
+    {
+      "id": "carta-banaspaty",
+      "nome": "Carta Banaspaty",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/banaspaty_card"
+    },
+    {
+      "id": "carta-baronesa-da-retribuicao",
+      "nome": "Carta Baronesa da Retribuição",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/baronesa_da_retribuicao_card"
+    },
+    {
+      "id": "carta-batedor",
+      "nome": "Carta Batedor",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/batedor_card"
+    },
+    {
+      "id": "carta-bathory",
+      "nome": "Carta Bathory",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/bathory_card"
+    },
+    {
+      "id": "carta-bebe-selvagem",
+      "nome": "Carta Bebê Selvagem",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/bebe_selvagem_card"
+    },
+    {
+      "id": "carta-bijou",
+      "nome": "Carta Bijou",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/bijou_card"
+    },
+    {
+      "id": "carta-brasa",
+      "nome": "Carta Brasa",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/brasa_card"
+    },
+    {
+      "id": "carta-breeze",
+      "nome": "Carta Breeze",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/breeze_card"
+    },
+    {
+      "id": "carta-butoijo",
+      "nome": "Carta Butoijo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/butoijo_card"
+    },
+    {
+      "id": "carta-caibra",
+      "nome": "Carta Cãibra",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/caibra_card"
+    },
+    {
+      "id": "carta-caramelo",
+      "nome": "Carta Caramelo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/caramelo_card"
+    },
+    {
+      "id": "carta-carnical",
+      "nome": "Carta Carniçal",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/carnical_card"
+    },
+    {
+      "id": "carta-cavaleira-khalitzburg",
+      "nome": "Carta Cavaleira Khalitzburg",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/cavaleira_khalitzburg_card"
+    },
+    {
+      "id": "carta-cavaleiro-branco",
+      "nome": "Carta Cavaleiro Branco",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/cavaleiro_branco_card"
+    },
+    {
+      "id": "carta-cavalo-marinho",
+      "nome": "Carta Cavalo-Marinho",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/cavalo_marinho_card"
+    },
+    {
+      "id": "carta-cenere",
+      "nome": "Carta Cenere",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/cenere_card"
+    },
+    {
+      "id": "carta-cendrawasih",
+      "nome": "Carta Cendrawasih",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/cendrawasih_card"
+    },
+    {
+      "id": "carta-centopeia",
+      "nome": "Carta Centopeia",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/centopeia_card"
+    },
+    {
+      "id": "carta-chapim",
+      "nome": "Carta Chapim",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/chapim_card"
+    },
+    {
+      "id": "carta-cobalto",
+      "nome": "Carta Cobalto",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/cobalto_card"
+    },
+    {
+      "id": "carta-coelho",
+      "nome": "Carta Coelho",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/coelho_card"
+    },
+    {
+      "id": "carta-cookie-natalino",
+      "nome": "Carta Cookie Natalino",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/cookie_natalino_card"
+    },
+    {
+      "id": "carta-cornus",
+      "nome": "Carta Cornus",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/cornus_card"
+    },
+    {
+      "id": "carta-cranio-flamejante",
+      "nome": "Carta Crânio Flamejante",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/cranio_flamejante_card"
+    },
+    {
+      "id": "carta-creamy-ameacador",
+      "nome": "Carta Creamy Ameaçador",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/creamy_ameacador_card"
+    },
+    {
+      "id": "carta-curupira",
+      "nome": "Carta Curupira",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/curupira_card"
+    },
+    {
+      "id": "carta-dama-da-guarda",
+      "nome": "Carta Dama da Guarda",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/dama_da_guarda_card"
+    },
+    {
+      "id": "carta-despertador",
+      "nome": "Carta Despertador",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/despertador_card"
+    },
+    {
+      "id": "carta-detarderus",
+      "nome": "Carta Detarderus",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/detarderus_card"
+    },
+    {
+      "id": "carta-deviling",
+      "nome": "Carta Deviling",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/deviling_card"
+    },
+    {
+      "id": "carta-deviruchi",
+      "nome": "Carta Deviruchi",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/deviruchi_card"
+    },
+    {
+      "id": "carta-diabinho",
+      "nome": "Carta Diabinho",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/diabinho_card"
+    },
+    {
+      "id": "carta-diabolik",
+      "nome": "Carta Diabolik",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/diabolik_card"
+    },
+    {
+      "id": "carta-disparador-de-pedras",
+      "nome": "Carta Disparador de Pedras",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/disparador_de_pedras_card"
+    },
+    {
+      "id": "carta-dofle",
+      "nome": "Carta Dofle",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/dofle_card"
+    },
+    {
+      "id": "carta-dokebi",
+      "nome": "Carta Dokebi",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/dokebi_card"
+    },
+    {
+      "id": "carta-dolomedes",
+      "nome": "Carta Dolomedes",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/dolomedes_card"
+    },
+    {
+      "id": "carta-draco",
+      "nome": "Carta Draco",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/draco_card"
+    },
+    {
+      "id": "carta-drainliar",
+      "nome": "Carta Drainliar",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/drainliar_card"
+    },
+    {
+      "id": "carta-dramoh-rei",
+      "nome": "Carta Dramoh Rei",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/dramoh_rei_card"
+    },
+    {
+      "id": "carta-driade",
+      "nome": "Carta Dríade",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/driade_card"
+    },
+    {
+      "id": "carta-druida-maligno",
+      "nome": "Carta Druida Maligno",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/druida_maligno_card"
+    },
+    {
+      "id": "carta-dullahan",
+      "nome": "Carta Dullahan",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/dullahan_card"
+    },
+    {
+      "id": "carta-egnigem-cenia",
+      "nome": "Carta Egnigem Cenia",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/egnigem_cenia_card"
+    },
+    {
+      "id": "carta-elemental-da-agua",
+      "nome": "Carta Elemental da Água",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/elemental_da_agua_card"
+    },
+    {
+      "id": "carta-elvira",
+      "nome": "Carta Elvira",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/elvira_card"
+    },
+    {
+      "id": "carta-encouracado",
+      "nome": "Carta Encouraçado",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/encouracado_card"
+    },
+    {
+      "id": "carta-eruma-vermelho",
+      "nome": "Carta Eruma Vermelho",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/eruma_vermelho_card"
+    },
+    {
+      "id": "carta-ermitao-maligno",
+      "nome": "Carta Ermitão Maligno",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/ermitao_maligno_card"
+    },
+    {
+      "id": "carta-ermitao-selvagem",
+      "nome": "Carta Ermitão Selvagem",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/ermitao_selvagem_card"
+    },
+    {
+      "id": "carta-escaravelho",
+      "nome": "Carta Escaravelho",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/escaravelho_card"
+    },
+    {
+      "id": "carta-escorpiao",
+      "nome": "Carta Escorpião",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/escorpiao_card"
+    },
+    {
+      "id": "carta-esqueleto",
+      "nome": "Carta Esqueleto",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/esqueleto_card"
+    },
+    {
+      "id": "carta-esqueleto-general",
+      "nome": "Carta Esqueleto General",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/esqueleto_general_card"
+    },
+    {
+      "id": "carta-esqueleto-operario",
+      "nome": "Carta Esqueleto Operário",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/esqueleto_operario_card"
+    },
+    {
+      "id": "carta-esqueleto-prisioneiro",
+      "nome": "Carta Esqueleto Prisioneiro",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/esqueleto_prisioneiro_card"
+    },
+    {
+      "id": "carta-espirito-da-terra",
+      "nome": "Carta Espírito da Terra",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/espirito_da_terra_card"
+    },
+    {
+      "id": "carta-espirito-do-vento",
+      "nome": "Carta Espírito do Vento",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/espirito_do_vento_card"
+    },
+    {
+      "id": "carta-estrondo",
+      "nome": "Carta Estrondo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/estrondo_card"
+    },
+    {
+      "id": "carta-executor",
+      "nome": "Carta Executor",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/executor_card"
+    },
+    {
+      "id": "carta-explosao",
+      "nome": "Carta Explosão",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/explosao_card"
+    },
+    {
+      "id": "carta-familiar",
+      "nome": "Carta Familiar",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/familiar_card"
+    },
+    {
+      "id": "carta-fen-absimal",
+      "nome": "Carta Fen Absimal",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/fen_absimal_card"
+    },
+    {
+      "id": "carta-fendark",
+      "nome": "Carta Fendark",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/fendark_card"
+    },
+    {
+      "id": "carta-ferrao",
+      "nome": "Carta Ferrão",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/ferrao_card"
+    },
+    {
+      "id": "carta-flora",
+      "nome": "Carta Flora",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/flora_card"
+    },
+    {
+      "id": "carta-fragmento-de-alma",
+      "nome": "Carta Fragmento de Alma",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/fragmento_de_alma_card"
+    },
+    {
+      "id": "carta-frilldora-de-fogo",
+      "nome": "Carta Frilldora de Fogo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/frilldora_de_fogo_card"
+    },
+    {
+      "id": "carta-furador",
+      "nome": "Carta Furador",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/furador_card"
+    },
+    {
+      "id": "carta-gabiru",
+      "nome": "Carta Gabiru",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/gabiru_card"
+    },
+    {
+      "id": "carta-gajomart",
+      "nome": "Carta Gajomart",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/gajomart_card"
+    },
+    {
+      "id": "carta-gargula",
+      "nome": "Carta Gárgula",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/gargula_card"
+    },
+    {
+      "id": "carta-gato-de-folha",
+      "nome": "Carta Gato de Folha",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/gato_de_folha_card"
+    },
+    {
+      "id": "carta-gemini-s58",
+      "nome": "Carta Gemini-S58",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/gemini_s58_card"
+    },
+    {
+      "id": "carta-ghostring",
+      "nome": "Carta Ghostring",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/ghostring_card"
+    },
+    {
+      "id": "carta-ghostring-caotico",
+      "nome": "Carta Ghostring Caótico",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/ghostring_caotico_card"
+    },
+    {
+      "id": "carta-giearth",
+      "nome": "Carta Giearth",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/giearth_card"
+    },
+    {
+      "id": "carta-giro-goblin",
+      "nome": "Carta Giro-Goblin",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/giro_goblin_card"
+    },
+    {
+      "id": "carta-goblin",
+      "nome": "Carta Goblin",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/goblin_card"
+    },
+    {
+      "id": "carta-goblin-a-vapor",
+      "nome": "Carta Goblin à Vapor",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/goblin_a_vapor_card"
+    },
+    {
+      "id": "carta-goblin-arqueiro",
+      "nome": "Carta Goblin Arqueiro",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/goblin_arqueiro_card"
+    },
+    {
+      "id": "carta-golem-ancestral",
+      "nome": "Carta Golem Ancestral",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/golem_ancestral_card"
+    },
+    {
+      "id": "carta-golem-de-bradium",
+      "nome": "Carta Golem de Bradium",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/golem_de_bradium_card"
+    },
+    {
+      "id": "carta-golem-de-fogo",
+      "nome": "Carta Golem de Fogo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/golem_de_fogo_card"
+    },
+    {
+      "id": "carta-golem-de-magma",
+      "nome": "Carta Golem de Magma",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/golem_de_magma_card"
+    },
+    {
+      "id": "carta-golem-estalactitico",
+      "nome": "Carta Golem Estalactítico",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/golem_estalactitico_card"
+    },
+    {
+      "id": "carta-gremlin",
+      "nome": "Carta Gremlin",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/gremlin_card"
+    },
+    {
+      "id": "carta-grizzly",
+      "nome": "Carta Grizzly",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/grizzly_card"
+    },
+    {
+      "id": "carta-grove",
+      "nome": "Carta Grove",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/grove_card"
+    },
+    {
+      "id": "carta-guerreiro-orc",
+      "nome": "Carta Guerreiro Orc",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/guerreiro_orc_card"
+    },
+    {
+      "id": "carta-guerreiro-wootan",
+      "nome": "Carta Guerreiro Wootan",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/guerreiro_wootan_card"
+    },
+    {
+      "id": "carta-gullinbursti",
+      "nome": "Carta Gullinbursti",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/gullinbursti_card"
+    },
+    {
+      "id": "carta-hatii",
+      "nome": "Carta Hatii",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/hatii_card"
+    },
+    {
+      "id": "carta-hode",
+      "nome": "Carta Hode",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/hode_card"
+    },
+    {
+      "id": "carta-hodremlin",
+      "nome": "Carta Hodremlin",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/hodremlin_card"
+    },
+    {
+      "id": "carta-isis",
+      "nome": "Carta Isis",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/isis_card"
+    },
+    {
+      "id": "carta-jakk",
+      "nome": "Carta Jakk",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/jakk_card"
+    },
+    {
+      "id": "carta-jejeling",
+      "nome": "Carta Jejeling",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/jejeling_card"
+    },
+    {
+      "id": "carta-jiboia",
+      "nome": "Carta Jiboia",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/jiboia_card"
+    },
+    {
+      "id": "carta-jing-guai",
+      "nome": "Carta Jing Guai",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/jing_guai_card"
+    },
+    {
+      "id": "carta-kaho",
+      "nome": "Carta Kaho",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/kaho_card"
+    },
+    {
+      "id": "carta-karakasa",
+      "nome": "Carta Karakasa",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/karakasa_card"
+    },
+    {
+      "id": "carta-khalitzburg",
+      "nome": "Carta Khalitzburg",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/khalitzburg_card"
+    },
+    {
+      "id": "carta-kikimora",
+      "nome": "Carta Kikimora",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/kikimora_card"
+    },
+    {
+      "id": "carta-kobold-arqueiro",
+      "nome": "Carta Kobold Arqueiro",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/kobold_arqueiro_card"
+    },
+    {
+      "id": "carta-koko",
+      "nome": "Carta Koko",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/koko_card"
+    },
+    {
+      "id": "carta-kraben",
+      "nome": "Carta Kraben",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/kraben_card"
+    },
+    {
+      "id": "carta-labareda",
+      "nome": "Carta Labareda",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/labareda_card"
+    },
+    {
+      "id": "carta-lagarta",
+      "nome": "Carta Lagarta",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/lagarta_card"
+    },
+    {
+      "id": "carta-larva-de-verme",
+      "nome": "Carta Larva de Verme",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/larva_de_verme_card"
+    },
+    {
+      "id": "carta-leak",
+      "nome": "Carta Leak",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/leak_card"
+    },
+    {
+      "id": "carta-leib-olmai",
+      "nome": "Carta Leib Olmai",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/leib_olmai_card"
+    },
+    {
+      "id": "carta-lichtern-amarelo",
+      "nome": "Carta Lichtern Amarelo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/lichtern_amarelo_card"
+    },
+    {
+      "id": "carta-lichtern-azul",
+      "nome": "Carta Lichtern Azul",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/lichtern_azul_card"
+    },
+    {
+      "id": "carta-lichtern-verde",
+      "nome": "Carta Lichtern Verde",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/lichtern_verde_card"
+    },
+    {
+      "id": "carta-lichtern-vermelho",
+      "nome": "Carta Lichtern Vermelho",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/lichtern_vermelho_card"
+    },
+    {
+      "id": "carta-lontra",
+      "nome": "Carta Lontra",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/lontra_card"
+    },
+    {
+      "id": "carta-lobo-do-deserto",
+      "nome": "Carta Lobo do Deserto",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/lobo_do_deserto_card"
+    },
+    {
+      "id": "carta-louva-a-deus-angra",
+      "nome": "Carta Louva-a-Deus Angra",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/louva_a_deus_angra_card"
+    },
+    {
+      "id": "carta-magnolia",
+      "nome": "Carta Magnólia",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/magnolia_card"
+    },
+    {
+      "id": "carta-majoruros",
+      "nome": "Carta Majoruros",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/majoruros_card"
+    },
+    {
+      "id": "carta-mandragora",
+      "nome": "Carta Mandrágora",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/mandragora_card"
+    },
+    {
+      "id": "carta-mandragora-da-selva",
+      "nome": "Carta Mandrágora da Selva",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/mandragora_da_selva_card"
+    },
+    {
+      "id": "carta-mantis-assassino",
+      "nome": "Carta Mantis Assassino",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/mantis_assassino_card"
+    },
+    {
+      "id": "carta-mao-de-ferro",
+      "nome": "Carta Mão de Ferro",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/mao_de_ferro_card"
+    },
+    {
+      "id": "carta-mao-guai",
+      "nome": "Carta Mao Guai",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/mao_guai_card"
+    },
+    {
+      "id": "carta-marca-tempo",
+      "nome": "Carta Marca-Tempo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/marca_tempo_card"
+    },
+    {
+      "id": "carta-marduk",
+      "nome": "Carta Marduk",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/marduk_card"
+    },
+    {
+      "id": "carta-marin",
+      "nome": "Carta Marin",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/marin_card"
+    },
+    {
+      "id": "carta-marina",
+      "nome": "Carta Marina",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/marina_card"
+    },
+    {
+      "id": "carta-marionete",
+      "nome": "Carta Marionete",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/marionete_card"
+    },
+    {
+      "id": "carta-marse-abismal",
+      "nome": "Carta Marse Abismal",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/marse_abismal_card"
+    },
+    {
+      "id": "carta-marte",
+      "nome": "Carta Marte",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/marte_card"
+    },
+    {
+      "id": "carta-martin",
+      "nome": "Carta Martin",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/martin_card"
+    },
+    {
+      "id": "carta-mascarado",
+      "nome": "Carta Mascarado",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/mascarado_card"
+    },
+    {
+      "id": "carta-mavka",
+      "nome": "Carta Mavka",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/mavka_card"
+    },
+    {
+      "id": "carta-medusa",
+      "nome": "Carta Medusa",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/medusa_card"
+    },
+    {
+      "id": "carta-megalodon",
+      "nome": "Carta Megalodon",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/megalodon_card"
+    },
+    {
+      "id": "carta-menblatt",
+      "nome": "Carta Menblatt",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/menblatt_card"
+    },
+    {
+      "id": "carta-metaller",
+      "nome": "Carta Metaller",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/metaller_card"
+    },
+    {
+      "id": "carta-mimico",
+      "nome": "Carta Mímico",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/mimico_card"
+    },
+    {
+      "id": "carta-mimico-antigo",
+      "nome": "Carta Mímico Antigo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/mimico_antigo_card"
+    },
+    {
+      "id": "carta-mimico-do-pesadelo",
+      "nome": "Carta Mímico do Pesadelo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/mimico_do_pesadelo_card"
+    },
+    {
+      "id": "carta-minorous",
+      "nome": "Carta Minorous",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/minorous_card"
+    },
+    {
+      "id": "carta-minorous-do-pesadelo",
+      "nome": "Carta Minorous do Pesadelo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/minorous_do_pesadelo_card"
+    },
+    {
+      "id": "carta-mosca-caotica",
+      "nome": "Carta Mosca Caótica",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/mosca_caotica_card"
+    },
+    {
+      "id": "carta-moldura-maldita",
+      "nome": "Carta Moldura Maldita",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/moldura_maldita_card"
+    },
+    {
+      "id": "carta-mula-sem-cabeca",
+      "nome": "Carta Mula Sem Cabeça",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/mula_sem_cabeca_card"
+    },
+    {
+      "id": "carta-munak",
+      "nome": "Carta Munak",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/munak_card"
+    },
+    {
+      "id": "carta-mumia-ancia-do-pesadelo",
+      "nome": "Carta Múmia Anciã do Pesadelo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/mumia_ancia_do_pesadelo_card"
+    },
+    {
+      "id": "carta-mysteltainn",
+      "nome": "Carta Mysteltainn",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/mysteltainn_card"
+    },
+    {
+      "id": "carta-naga",
+      "nome": "Carta Naga",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/naga_card"
+    },
+    {
+      "id": "carta-neo-punk",
+      "nome": "Carta Neo Punk",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/neo_punk_card"
+    },
+    {
+      "id": "carta-nepenthes",
+      "nome": "Carta Nepenthes",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/nepenthes_card"
+    },
+    {
+      "id": "carta-nereida",
+      "nome": "Carta Nereida",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/nereida_card"
+    },
+    {
+      "id": "carta-nevoa",
+      "nome": "Carta Névoa",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/nevoa_card"
+    },
+    {
+      "id": "carta-nihil",
+      "nome": "Carta Nihil",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/nihil_card"
+    },
+    {
+      "id": "carta-novus-escarlate",
+      "nome": "Carta Novus Escarlate",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/novus_escarlate_card"
+    },
+    {
+      "id": "carta-nuvem-venenosa",
+      "nome": "Carta Nuvem Venenosa",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/nuvem_venenosa_card"
+    },
+    {
+      "id": "carta-obsidiana",
+      "nome": "Carta Obsidiana",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/obsidiana_card"
+    },
+    {
+      "id": "carta-obsidiana-sinistra",
+      "nome": "Carta Obsidiana Sinistra",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/obsidiana_sinistra_card"
+    },
+    {
+      "id": "carta-orc-arqueiro",
+      "nome": "Carta Orc Arqueiro",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/orc_arqueiro_card"
+    },
+    {
+      "id": "carta-orc-esqueleto",
+      "nome": "Carta Orc Esqueleto",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/orc_esqueleto_card"
+    },
+    {
+      "id": "carta-orc-heroi",
+      "nome": "Carta Orc Herói",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/orc_heroi_card"
+    },
+    {
+      "id": "carta-orc-zumbi",
+      "nome": "Carta Orc Zumbi",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/orc_zumbi_card"
+    },
+    {
+      "id": "carta-ovo-de-dragao",
+      "nome": "Carta Ovo de Dragão",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/ovo_de_dragao_card"
+    },
+    {
+      "id": "carta-ovo-de-draco",
+      "nome": "Carta Ovo de Draco",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/ovo_de_draco_card"
+    },
+    {
+      "id": "carta-ovo-de-pecopeco",
+      "nome": "Carta Ovo de Pecopeco",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/ovo_de_pecopeco_card"
+    },
+    {
+      "id": "carta-panzer-goblin",
+      "nome": "Carta Panzer Goblin",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/panzer_goblin_card"
+    },
+    {
+      "id": "carta-pasana",
+      "nome": "Carta Pasana",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/pasana_card"
+    },
+    {
+      "id": "carta-pe-grande",
+      "nome": "Carta Pé-Grande",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/pe_grande_card"
+    },
+    {
+      "id": "carta-peixe-espada",
+      "nome": "Carta Peixe-Espada",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/peixe_espada_card"
+    },
+    {
+      "id": "carta-penomena",
+      "nome": "Carta Penomena",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/penomena_card"
+    },
+    {
+      "id": "carta-pequeno-fatum",
+      "nome": "Carta Pequeno Fatum",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/pequeno_fatum_card"
+    },
+    {
+      "id": "carta-percevejo",
+      "nome": "Carta Percevejo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/percevejo_card"
+    },
+    {
+      "id": "carta-pesar-de-thanatos",
+      "nome": "Carta Pesar de Thanatos",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/pesar_de_thanatos_card"
+    },
+    {
+      "id": "carta-pesadelo",
+      "nome": "Carta Pesadelo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/pesadelo_card"
+    },
+    {
+      "id": "carta-pesadelo-sombrio",
+      "nome": "Carta Pesadelo Sombrio",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/pesadelo_sombrio_card"
+    },
+    {
+      "id": "carta-peste",
+      "nome": "Carta Peste",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/peste_card"
+    },
+    {
+      "id": "carta-petal",
+      "nome": "Carta Petal",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/petal_card"
+    },
+    {
+      "id": "carta-petite",
+      "nome": "Carta Petite",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/petite_card"
+    },
+    {
+      "id": "carta-petite-voador",
+      "nome": "Carta Petite Voador",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/petite_voador_card"
+    },
+    {
+      "id": "carta-pingu",
+      "nome": "Carta Pingu",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/pingu_card"
+    },
+    {
+      "id": "carta-pinguicula",
+      "nome": "Carta Pinguicula",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/pinguicula_card"
+    },
+    {
+      "id": "carta-pirralho",
+      "nome": "Carta Pirralho",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/pirralho_card"
+    },
+    {
+      "id": "carta-pla-a",
+      "nome": "Carta Pla a",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/pla_a_card"
+    },
+    {
+      "id": "carta-plagiador",
+      "nome": "Carta Plagiador",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/plagiador_card"
+    },
+    {
+      "id": "carta-plancton",
+      "nome": "Carta Plâncton",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/plancton_card"
+    },
+    {
+      "id": "carta-poeira",
+      "nome": "Carta Poeira",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/poeira_card"
+    },
+    {
+      "id": "carta-polvo-pequeno",
+      "nome": "Carta Polvo Pequeno",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/polvo_pequeno_card"
+    },
+    {
+      "id": "carta-poporing-caotico",
+      "nome": "Carta Poporing Caótico",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/poporing_caotico_card"
+    },
+    {
+      "id": "carta-poring-noel",
+      "nome": "Carta Poring Noel",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/poring_noel_card"
+    },
+    {
+      "id": "carta-presente",
+      "nome": "Carta Presente",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/presente_card"
+    },
+    {
+      "id": "carta-presente-das-trevas",
+      "nome": "Carta Presente das Trevas",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/presente_das_trevas_card"
+    },
+    {
+      "id": "carta-pungus",
+      "nome": "Carta Pungus",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/pungus_card"
+    },
+    {
+      "id": "carta-quimera",
+      "nome": "Carta Quimera",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/quimera_card"
+    },
+    {
+      "id": "carta-rafflesia",
+      "nome": "Carta Rafflesia",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/rafflesia_card"
+    },
+    {
+      "id": "carta-rafflesia-anoldi",
+      "nome": "Carta Rafflesia Anoldi",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/rafflesia_anoldi_card"
+    },
+    {
+      "id": "carta-rastreador",
+      "nome": "Carta Rastreador",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/rastreador_card"
+    },
+    {
+      "id": "carta-raydric",
+      "nome": "Carta Raydric",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/raydric_card"
+    },
+    {
+      "id": "carta-raydric-arqueiro",
+      "nome": "Carta Raydric Arqueiro",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/raydric_arqueiro_card"
+    },
+    {
+      "id": "carta-requiem",
+      "nome": "Carta Réquiem",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/requiem_card"
+    },
+    {
+      "id": "carta-robo-de-sucata",
+      "nome": "Carta Robô de Sucata",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/robo_de_sucata_card"
+    },
+    {
+      "id": "carta-rochoso",
+      "nome": "Carta Rochoso",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/rochoso_card"
+    },
+    {
+      "id": "carta-rybio",
+      "nome": "Carta Rybio",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/rybio_card"
+    },
+    {
+      "id": "carta-sanare",
+      "nome": "Carta Sanare",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/sanare_card"
+    },
+    {
+      "id": "carta-sapo-de-thara",
+      "nome": "Carta Sapo de Thara",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/sapo_de_thara_card"
+    },
+    {
+      "id": "carta-sasquatch",
+      "nome": "Carta Sasquatch",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/sasquatch_card"
+    },
+    {
+      "id": "carta-senhora-do-abrigo",
+      "nome": "Carta Senhora do Abrigo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/senhora_do_abrigo_card"
+    },
+    {
+      "id": "carta-serial-killer",
+      "nome": "Carta Serial Killer",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/serial_killer_card"
+    },
+    {
+      "id": "carta-serpente-suprema",
+      "nome": "Carta Serpente Suprema",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/serpente_suprema_card"
+    },
+    {
+      "id": "carta-siorava",
+      "nome": "Carta Siorava",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/siorava_card"
+    },
+    {
+      "id": "carta-skogul",
+      "nome": "Carta Skogul",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/skogul_card"
+    },
+    {
+      "id": "carta-soldadinho-de-chumbo",
+      "nome": "Carta Soldadinho de Chumbo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/soldadinho_de_chumbo_card"
+    },
+    {
+      "id": "carta-sombra-obscura",
+      "nome": "Carta Sombra Obscura",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/sombra_obscura_card"
+    },
+    {
+      "id": "carta-sorrateiro-caotico",
+      "nome": "Carta Sorrateiro Caótico",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/sorrateiro_caotico_card"
+    },
+    {
+      "id": "carta-sropho",
+      "nome": "Carta Sropho",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/sropho_card"
+    },
+    {
+      "id": "carta-strouf",
+      "nome": "Carta Strouf",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/strouf_card"
+    },
+    {
+      "id": "carta-talo-de-verme",
+      "nome": "Carta Talo de Verme",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/talo_de_verme_card"
+    },
+    {
+      "id": "carta-tapuru",
+      "nome": "Carta Tapuru",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/tapuru_card"
+    },
+    {
+      "id": "carta-tatacho",
+      "nome": "Carta Tatacho",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/tatacho_card"
+    },
+    {
+      "id": "carta-tikbalang",
+      "nome": "Carta Tikbalang",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/tikbalang_card"
+    },
+    {
+      "id": "carta-tirfing",
+      "nome": "Carta Tirfing",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/tirfing_card"
+    },
+    {
+      "id": "carta-trilobita",
+      "nome": "Carta Trilobita",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/trilobita_card"
+    },
+    {
+      "id": "carta-ungoliant",
+      "nome": "Carta Ungoliant",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/ungoliant_card"
+    },
+    {
+      "id": "carta-ursinho",
+      "nome": "Carta Ursinho",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/ursinho_card"
+    },
+    {
+      "id": "carta-ursinhos-coloridos",
+      "nome": "Carta Ursinhos Coloridos",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/ursinhos_coloridos_card"
+    },
+    {
+      "id": "carta-vadon",
+      "nome": "Carta Vadon",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/vadon_card"
+    },
+    {
+      "id": "carta-venatu",
+      "nome": "Carta Venatu",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/venatu_card"
+    },
+    {
+      "id": "carta-verme-anciao",
+      "nome": "Carta Verme Ancião",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/verme_anciao_card"
+    },
+    {
+      "id": "carta-verme-sabio",
+      "nome": "Carta Verme Sábio",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/verme_sabio_card"
+    },
+    {
+      "id": "carta-vespa-vagalume",
+      "nome": "Carta Vespa Vagalume",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/vespa_vagalume_card"
+    },
+    {
+      "id": "carta-wakwak",
+      "nome": "Carta Wakwak",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/wakwak_card"
+    },
+    {
+      "id": "carta-zakudam",
+      "nome": "Carta Zakudam",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/zakudam_card"
+    },
+    {
+      "id": "carta-zangao-gigante",
+      "nome": "Carta Zangão Gigante",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/zangao_gigante_card"
+    },
+    {
+      "id": "carta-zenorc",
+      "nome": "Carta Zenorc",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/zenorc_card"
+    },
+    {
+      "id": "carta-zumbi-mestre",
+      "nome": "Carta Zumbi Mestre",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/zumbi_mestre_card"
+    },
+    {
+      "id": "carta-zumbi-prisioneiro",
+      "nome": "Carta Zumbi Prisioneiro",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://playragnarokonlinebr.com/database/thor/itens-slot/detalhes/zumbi_prisioneiro_card"
+    }
+  ]
+}
