@@ -1,67 +1,62 @@
-    /* Muda a fonte e o fundo da página inteira */
-    body {
-      font-family: sans-serif;
-      background-color: #f0f0f0;
-      padding: 20px;
-    }
+body {
+  font-family: sans-serif;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
 
-    /* O container que segura as duas div */
-    .container {
-      display: flex; /* Este comando coloca as caixas uma ao lado da outra */
-      gap: 20px; /* Cria um espaço entre as duas caixas */
-    }
+/* lista e detalhes -------------------------------------------------------------- */
+.container {
+  display: flex;
+  gap: 20px; /* Aumentei um pouco o espaço */
+  align-items: flex-start; /* Alinha os itens no topo */
+}
 
-    /* Estilo para as duas caixas (lista e detalhes) */
-    .lista, .detalhes {
-      background-color: #ffffff;
-      padding: 20px;
-      border: 1px solid #cccccc;
-      border-radius: 5px;
-    }
+.lista, .detalhes {
+  background-color: #ffffff;
+  padding: 20px;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+}
 
-    /* A caixa da lista vai ocupar 1 parte do espaço */
-    .lista {
-      flex: 1;
-    }
+.lista {
+  flex: 1;
+}
+.detalhes {
+  flex: 1.4;
+  position: sticky;
+  top: 20px;
+}
 
-    /* A caixa de detalhes vai ocupar 2 partes (o dobro do tamanho da lista) */
-    .detalhes {
-      flex: 1.4;
-    }
+.preco {
+  font-family: monospace;
+  font-size: large;
+  border-left: 4px solid #999999;
+  padding-left: 10px;
+}
 
-    /*pra ficar mais visivel*/
-    .preco {
-      font-family: monospace;
-      font-size: large;
-      border-left: 4px solid #999999;
-      padding-left: 10px;
-    }
+/* itens da lista ---------------------------------------------------------------- */
+.lista li.selecionado {
+  color: #007bff; 
+  font-weight: bold; 
+  cursor: pointer;
+}
 
-    /*relacionado ao .js, destaca o selecionado*/
-    .lista li.selecionado {
-      color: #007bff; 
-      font-weight: bold; 
-      cursor: pointer;
-    }
+ul {
+  list-style: none;
+  padding: 0;
+}
 
-    /*customizando a lista de itens*/
-    ul {
-      list-style: none;
-      padding: 0;
-    }
+li {
+  margin-bottom: 10px;
+}
 
-    /*espaço entre os itens da lista*/
-    li {
-      margin-bottom: 10px;
-    }
-
-    li:hover {
-      text-decoration:underline;
-      font-style: italic;
-    }
+li:hover {
+  text-decoration:underline;
+  font-style: italic;
+}
 
 
-/* from da sugestão de preço ------------------------------------------------ */
+/* form da sugestão de preço ----------------------------------------------------- */
 .sugestao-container {
   margin-top:  24px; 
   margin-bottom:  24px; 
@@ -108,8 +103,7 @@
   background-color: #27ae60;
 }
 
-/* menu da pagina home ------------------------------------------------------ */
-
+/* menu da pagina home ----------------------------------------------------------- */
 #main-menu{
   background-color: white;
   padding: 1%;
