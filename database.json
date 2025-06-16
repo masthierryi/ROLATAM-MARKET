@@ -2143,6 +2143,1694 @@
       "preco_med": "0z",
       "preco_max": "0z",
       "link": "https://www.divine-pride.net/database/item/4361/zombie-prisoner-card"
+    },
+    {
+      "id": "armadura-sombria",
+      "nome": "Armadura Sombria",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24013"
+    },
+    {
+      "id": "brincos-sombrios",
+      "nome": "Brincos Sombrios",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24016"
+    },
+    {
+      "id": "colar-sombrio",
+      "nome": "Colar Sombrio",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24017"
+    },
+    {
+      "id": "escudo-sombrio",
+      "nome": "Escudo Sombrio",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24015"
+    },
+    {
+      "id": "luvas-sombrias",
+      "nome": "Luvas Sombrias",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24012"
+    },
+    {
+      "id": "sapatos-sombrios",
+      "nome": "Sapatos Sombrios",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24014"
+    },
+    {
+      "id": "armadura-sombria-des",
+      "nome": "Armadura Sombria DES",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24037"
+    },
+    {
+      "id": "armadura-sombria-sor",
+      "nome": "Armadura Sombria SOR",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24040"
+    },
+    {
+      "id": "brincos-sombrios-for",
+      "nome": "Brincos Sombrios FOR",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24035"
+    },
+    {
+      "id": "brincos-sombrios-int",
+      "nome": "Brincos Sombrios INT",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24042"
+    },
+    {
+      "id": "colar-sombrio-for",
+      "nome": "Colar Sombrio FOR",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24041"
+    },
+    {
+      "id": "colar-sombrio-int",
+      "nome": "Colar Sombrio INT",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24036"
+    },
+    {
+      "id": "escudo-sombrio-agi",
+      "nome": "Escudo Sombrio AGI",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24039"
+    },
+    {
+      "id": "escudo-sombrio-vit",
+      "nome": "Escudo Sombrio VIT",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24044"
+    },
+    {
+      "id": "luvas-sombrias-des",
+      "nome": "Luvas Sombrias DES",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24043"
+    },
+    {
+      "id": "luvas-sombrias-sor",
+      "nome": "Luvas Sombrias SOR",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24034"
+    },
+    {
+      "id": "sapatos-sombrios-agi",
+      "nome": "Sapatos Sombrios AGI",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24045"
+    },
+    {
+      "id": "sapatos-sombrios-vit",
+      "nome": "Sapatos Sombrios VIT",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24038"
+    },
+    {
+      "id": "armadura-sombria-critica",
+      "nome": "Armadura Sombria Crítica",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24030"
+    },
+    {
+      "id": "armadura-sombria-da-ancient",
+      "nome": "Armadura Sombria da Ancient",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24029"
+    },
+    {
+      "id": "armadura-sombria-da-hard",
+      "nome": "Armadura Sombria da Hard",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24028"
+    },
+    {
+      "id": "armadura-sombria-da-stability",
+      "nome": "Armadura Sombria da Stability",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24089"
+    },
+    {
+      "id": "armadura-sombria-da-tought",
+      "nome": "Armadura Sombria da Tought",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24026"
+    },
+    {
+      "id": "armadura-sombria-do-spellflow",
+      "nome": "Armadura Sombria do Spellflow",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24112"
+    },
+    {
+      "id": "armadura-sombria-fugaz",
+      "nome": "Armadura Sombria Fugaz",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24442"
+    },
+    {
+      "id": "armadura-sombria-maliciosa",
+      "nome": "Armadura Sombria Maliciosa",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24081"
+    },
+    {
+      "id": "arma-sombria-da-penetration-1",
+      "nome": "Arma Sombria da Penetration",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24161"
+    },
+    {
+      "id": "arma-sombria-da-penetration-2",
+      "nome": "Arma Sombria da Penetration",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24165"
+    },
+    {
+      "id": "botas-sombrias-medicinais",
+      "nome": "Botas Sombrias Medicinais",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24439"
+    },
+    {
+      "id": "brincos-fisicos-sombrios",
+      "nome": "Brincos Físicos Sombrios",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24018"
+    },
+    {
+      "id": "brincos-magicos-sombrios",
+      "nome": "Brincos Mágicos Sombrios",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24021"
+    },
+    {
+      "id": "brincos-sombrios-da-all-mdef-pierce",
+      "nome": "Brincos Sombrios da All-MDEF-Pierce",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24669"
+    },
+    {
+      "id": "brincos-sombrios-da-all-penetration",
+      "nome": "Brincos Sombrios da All-Penetration",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24665"
+    },
+    {
+      "id": "brincos-sombrios-da-stability",
+      "nome": "Brincos Sombrios da Stability",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24092"
+    },
+    {
+      "id": "brincos-sombrios-da-tempestade",
+      "nome": "Brincos Sombrios da Tempestade",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24725"
+    },
+    {
+      "id": "brincos-sombrios-da-tensao",
+      "nome": "Brincos Sombrios da Tensão",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24536"
+    },
+    {
+      "id": "brincos-sombrios-do-caster",
+      "nome": "Brincos Sombrios do Caster",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24447"
+    },
+    {
+      "id": "brincos-sombrios-do-delay",
+      "nome": "Brincos Sombrios do Delay",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24242"
+    },
+    {
+      "id": "brincos-sombrios-do-exterminio",
+      "nome": "Brincos Sombrios do Extermínio",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24543"
+    },
+    {
+      "id": "brincos-sombrios-do-spell",
+      "nome": "Brincos Sombrios do Spell",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24108"
+    },
+    {
+      "id": "brincos-sombrios-do-unfrozen",
+      "nome": "Brincos Sombrios do Unfrozen",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24100"
+    },
+    {
+      "id": "brincos-sombrios-elegantes",
+      "nome": "Brincos Sombrios Elegantes",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24607"
+    },
+    {
+      "id": "brincos-sombrios-maliciosos",
+      "nome": "Brincos Sombrios Maliciosos",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24084"
+    },
+    {
+      "id": "brincos-sombrios-sentimentais",
+      "nome": "Brincos Sombrios Sentimentais",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24539"
+    },
+    {
+      "id": "brincos-sombrios-totais",
+      "nome": "Brincos Sombrios Totais",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24339"
+    },
+    {
+      "id": "colar-fisico-sombrio",
+      "nome": "Colar Físico Sombrio",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24020"
+    },
+    {
+      "id": "colar-magico-sombrio",
+      "nome": "Colar Mágico Sombrio",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24023"
+    },
+    {
+      "id": "colar-sombrio-da-all-mdef-pierce",
+      "nome": "Colar Sombrio da All-MDEF-Pierce",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24668"
+    },
+    {
+      "id": "colar-sombrio-da-all-penetration",
+      "nome": "Colar Sombrio da All-Penetration",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24662"
+    },
+    {
+      "id": "colar-sombrio-da-stability",
+      "nome": "Colar Sombrio da Stability",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24093"
+    },
+    {
+      "id": "colar-sombrio-da-tempestade",
+      "nome": "Colar Sombrio da Tempestade",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24726"
+    },
+    {
+      "id": "colar-sombrio-da-tensao",
+      "nome": "Colar Sombrio da Tensão",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24537"
+    },
+    {
+      "id": "colar-sombrio-do-caster",
+      "nome": "Colar Sombrio do Caster",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24448"
+    },
+    {
+      "id": "colar-sombrio-do-delay",
+      "nome": "Colar Sombrio do Delay",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24241"
+    },
+    {
+      "id": "colar-sombrio-do-exterminio",
+      "nome": "Colar Sombrio do Extermínio",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24544"
+    },
+    {
+      "id": "colar-sombrio-do-spell",
+      "nome": "Colar Sombrio do Spell",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24109"
+    },
+    {
+      "id": "colar-sombrio-do-unfrozen",
+      "nome": "Colar Sombrio do Unfrozen",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24101"
+    },
+    {
+      "id": "colar-sombrio-elegante",
+      "nome": "Colar Sombrio Elegante",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24608"
+    },
+    {
+      "id": "colar-sombrio-malicioso",
+      "nome": "Colar Sombrio Malicioso",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24085"
+    },
+    {
+      "id": "colar-sombrio-sentimental",
+      "nome": "Colar Sombrio Sentimental",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24540"
+    },
+    {
+      "id": "colar-sombrio-total",
+      "nome": "Colar Sombrio Total",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24340"
+    },
+    {
+      "id": "escudo-sombrio-da-stability",
+      "nome": "Escudo Sombrio da Stability",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24090"
+    },
+    {
+      "id": "escudo-sombrio-do-delay",
+      "nome": "Escudo Sombrio do Delay",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24244"
+    },
+    {
+      "id": "escudo-sombrio-do-mammoth",
+      "nome": "Escudo Sombrio do Mammoth",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24453"
+    },
+    {
+      "id": "escudo-sombrio-do-spell",
+      "nome": "Escudo Sombrio do Spell",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24106"
+    },
+    {
+      "id": "escudo-sombrio-do-spellflow",
+      "nome": "Escudo Sombrio do Spellflow",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24113"
+    },
+    {
+      "id": "escudo-sombrio-fugaz",
+      "nome": "Escudo Sombrio Fugaz",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24440"
+    },
+    {
+      "id": "escudo-sombrio-malicioso",
+      "nome": "Escudo Sombrio Malicioso",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24083"
+    },
+    {
+      "id": "escudo-sombrio-autoportante",
+      "nome": "Escudo Sombrio Autoportante",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24728"
+    },
+    {
+      "id": "grevas-sombrias-do-delay",
+      "nome": "Grevas Sombrias do Delay",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24243"
+    },
+    {
+      "id": "grevas-sombrias-do-spell",
+      "nome": "Grevas Sombrias do Spell",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24107"
+    },
+    {
+      "id": "luvas-curativas-sombrias",
+      "nome": "Luvas Curativas Sombrias",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24033"
+    },
+    {
+      "id": "luvas-sombrias-criticas",
+      "nome": "Luvas Sombrias Críticas",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24032"
+    },
+    {
+      "id": "luvas-sombrias-da-tempestade",
+      "nome": "Luvas Sombrias da Tempestade",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24724"
+    },
+    {
+      "id": "luvas-sombrias-da-tensao",
+      "nome": "Luvas Sombrias da Tensão",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24538"
+    },
+    {
+      "id": "luvas-sombrias-do-caster",
+      "nome": "Luvas Sombrias do Caster",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24446"
+    },
+    {
+      "id": "luvas-sombrias-do-exterminio",
+      "nome": "Luvas Sombrias do Extermínio",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24542"
+    },
+    {
+      "id": "luvas-sombrias-do-infinito",
+      "nome": "Luvas Sombrias do Infinito",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24386"
+    },
+    {
+      "id": "luvas-sombrias-do-kingbird",
+      "nome": "Luvas Sombrias do Kingbird",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24031"
+    },
+    {
+      "id": "luvas-sombrias-do-mammoth",
+      "nome": "Luvas Sombrias do Mammoth",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24452"
+    },
+    {
+      "id": "luvas-sombrias-do-spellflow",
+      "nome": "Luvas Sombrias do Spellflow",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24110"
+    },
+    {
+      "id": "luvas-sombrias-do-unfrozen",
+      "nome": "Luvas Sombrias do Unfrozen",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24099"
+    },
+    {
+      "id": "luvas-sombrias-elegantes",
+      "nome": "Luvas Sombrias Elegantes",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24606"
+    },
+    {
+      "id": "luvas-sombrias-sentimentais",
+      "nome": "Luvas Sombrias Sentimentais",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24541"
+    },
+    {
+      "id": "malha-sombria-da-all-mdef-pierce",
+      "nome": "Malha Sombria da All-MDEF-Pierce",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24667"
+    },
+    {
+      "id": "malha-sombria-da-all-penetration",
+      "nome": "Malha Sombria da All-Penetration",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24663"
+    },
+    {
+      "id": "malha-sombria-da-penetration",
+      "nome": "Malha Sombria da Penetration",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24162"
+    },
+    {
+      "id": "malha-sombria-do-delay",
+      "nome": "Malha Sombria do Delay",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24245"
+    },
+    {
+      "id": "malha-sombria-do-spell",
+      "nome": "Malha Sombria do Spell",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24105"
+    },
+    {
+      "id": "malha-sombria-do-unfrozen",
+      "nome": "Malha Sombria do Unfrozen",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24098"
+    },
+    {
+      "id": "malha-sombria-autoportante",
+      "nome": "Malha Sombria Autoportante",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24729"
+    },
+    {
+      "id": "pingente-sombrio-da-penetration",
+      "nome": "Pingente Sombrio da Penetration",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24167"
+    },
+    {
+      "id": "sapatos-sombrios-da-all-mdef-pierce",
+      "nome": "Sapatos Sombrios da All-MDEF-Pierce",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24666"
+    },
+    {
+      "id": "sapatos-sombrios-da-all-penetration",
+      "nome": "Sapatos Sombrios da All-Penetration",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24664"
+    },
+    {
+      "id": "sapatos-sombrios-da-penetration",
+      "nome": "Sapatos Sombrios da Penetration",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24164"
+    },
+    {
+      "id": "sapatos-sombrios-da-stability",
+      "nome": "Sapatos Sombrios da Stability",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24091"
+    },
+    {
+      "id": "sapatos-sombrios-da-tought",
+      "nome": "Sapatos Sombrios da Tought",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24027"
+    },
+    {
+      "id": "sapatos-sombrios-do-champion",
+      "nome": "Sapatos Sombrios do Champion",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24025"
+    },
+    {
+      "id": "sapatos-sombrios-do-cleaver",
+      "nome": "Sapatos Sombrios do Cleaver",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24024"
+    },
+    {
+      "id": "sapatos-sombrios-do-spellflow",
+      "nome": "Sapatos Sombrios do Spellflow",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24111"
+    },
+    {
+      "id": "sapatos-sombrios-do-tornado",
+      "nome": "Sapatos Sombrios do Tornado",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24466"
+    },
+    {
+      "id": "sapatos-sombrios-fugazes",
+      "nome": "Sapatos Sombrios Fugazes",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24441"
+    },
+    {
+      "id": "sapatos-sombrios-inteligentes",
+      "nome": "Sapatos Sombrios Inteligentes",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24438"
+    },
+    {
+      "id": "sapatos-sombrios-maliciosos",
+      "nome": "Sapatos Sombrios Maliciosos",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24082"
+    },
+    {
+      "id": "sapatos-sombrios-autoportantes",
+      "nome": "Sapatos Sombrios Autoportantes",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24727"
+    },
+    {
+      "id": "armadura-sombria-da-deusa",
+      "nome": "Armadura Sombria da Deusa",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24414"
+    },
+    {
+      "id": "armadura-sombria-da-terra",
+      "nome": "Armadura Sombria da Terra",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24427"
+    },
+    {
+      "id": "armadura-sombria-de-fogo",
+      "nome": "Armadura Sombria de Fogo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24421"
+    },
+    {
+      "id": "armadura-sombria-de-gelo",
+      "nome": "Armadura Sombria de Gelo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24424"
+    },
+    {
+      "id": "armadura-sombria-do-dragao",
+      "nome": "Armadura Sombria do Dragão",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24411"
+    },
+    {
+      "id": "armadura-sombria-do-raio",
+      "nome": "Armadura Sombria do Raio",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24430"
+    },
+    {
+      "id": "brincos-sombrios-da-deusa",
+      "nome": "Brincos Sombrios da Deusa",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24415"
+    },
+    {
+      "id": "colar-sombrio-da-deusa",
+      "nome": "Colar Sombrio da Deusa",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24416"
+    },
+    {
+      "id": "escudo-sombrio-da-deusa",
+      "nome": "Escudo Sombrio da Deusa",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24412"
+    },
+    {
+      "id": "escudo-sombrio-da-terra",
+      "nome": "Escudo Sombrio da Terra",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24428"
+    },
+    {
+      "id": "escudo-sombrio-de-fogo",
+      "nome": "Escudo Sombrio de Fogo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24422"
+    },
+    {
+      "id": "escudo-sombrio-de-gelo",
+      "nome": "Escudo Sombrio de Gelo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24425"
+    },
+    {
+      "id": "escudo-sombrio-do-raio",
+      "nome": "Escudo Sombrio do Raio",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24431"
+    },
+    {
+      "id": "sapatos-sombrios-da-deusa",
+      "nome": "Sapatos Sombrios da Deusa",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24413"
+    },
+    {
+      "id": "sapatos-sombrios-da-terra",
+      "nome": "Sapatos Sombrios da Terra",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24429"
+    },
+    {
+      "id": "sapatos-sombrios-de-fogo",
+      "nome": "Sapatos Sombrios de Fogo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24423"
+    },
+    {
+      "id": "sapatos-sombrios-de-gelo",
+      "nome": "Sapatos Sombrios de Gelo",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24426"
+    },
+    {
+      "id": "sapatos-sombrios-do-raio",
+      "nome": "Sapatos Sombrios do Raio",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24432"
+    },
+    {
+      "id": "armadura-sombria-do-crusader",
+      "nome": "Armadura Sombria do Crusader",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24270"
+    },
+    {
+      "id": "armadura-sombria-do-knight",
+      "nome": "Armadura Sombria do Knight",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24269"
+    },
+    {
+      "id": "brincos-sombrios-do-dragon-breath",
+      "nome": "Brincos Sombrios do Dragon Breath",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24451"
+    },
+    {
+      "id": "brincos-sombrios-do-swordsman",
+      "nome": "Brincos Sombrios do Swordsman",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24246"
+    },
+    {
+      "id": "colar-sombrio-do-swordsman",
+      "nome": "Colar Sombrio do Swordsman",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24250"
+    },
+    {
+      "id": "escudo-sombrio-do-royal-guard",
+      "nome": "Escudo Sombrio do Royal Guard",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24302"
+    },
+    {
+      "id": "escudo-sombrio-do-rune-knight",
+      "nome": "Escudo Sombrio do Rune Knight",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24301"
+    },
+    {
+      "id": "grevas-sombrias-do-knight",
+      "nome": "Grevas Sombrias do Knight",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24256"
+    },
+    {
+      "id": "luvas-sombrias-do-fire-breath",
+      "nome": "Luvas Sombrias do Fire Breath",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24449"
+    },
+    {
+      "id": "luvas-sombrias-do-royal-guard",
+      "nome": "Luvas Sombrias do Royal Guard",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24289"
+    },
+    {
+      "id": "luvas-sombrias-do-rune-knight",
+      "nome": "Luvas Sombrias do Rune Knight",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24288"
+    },
+    {
+      "id": "pingente-sombrio-do-fire-breath",
+      "nome": "Pingente Sombrio do Fire Breath",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24450"
+    },
+    {
+      "id": "sapatos-sombrios-do-crusader",
+      "nome": "Sapatos Sombrios do Crusader",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24257"
+    },
+    {
+      "id": "armadura-sombria-do-sage",
+      "nome": "Armadura Sombria do Sage",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24279"
+    },
+    {
+      "id": "armadura-sombria-do-wizard",
+      "nome": "Armadura Sombria do Wizard",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24278"
+    },
+    {
+      "id": "brincos-sombrios-do-magician",
+      "nome": "Brincos Sombrios do Magician",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24249"
+    },
+    {
+      "id": "colar-sombrio-do-magician",
+      "nome": "Colar Sombrio do Magician",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24254"
+    },
+    {
+      "id": "escudo-sombrio-do-sorcerer",
+      "nome": "Escudo Sombrio do Sorcerer",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24310"
+    },
+    {
+      "id": "escudo-sombrio-do-warlock",
+      "nome": "Escudo Sombrio do Warlock",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24309"
+    },
+    {
+      "id": "luvas-sombrias-do-sorcerer",
+      "nome": "Luvas Sombrias do Sorcerer",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24297"
+    },
+    {
+      "id": "luvas-sombrias-do-warlock",
+      "nome": "Luvas Sombrias do Warlock",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24296"
+    },
+    {
+      "id": "sapatos-sombrios-do-sage",
+      "nome": "Sapatos Sombrios do Sage",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24266"
+    },
+    {
+      "id": "sapatos-sombrios-do-wizard",
+      "nome": "Sapatos Sombrios do Wizard",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24265"
+    },
+    {
+      "id": "armadura-sombria-da-dancer",
+      "nome": "Armadura Sombria da Dancer",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24281"
+    },
+    {
+      "id": "armadura-sombria-do-bard",
+      "nome": "Armadura Sombria do Bard",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24280"
+    },
+    {
+      "id": "armadura-sombria-do-hunter",
+      "nome": "Armadura Sombria do Hunter",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24267"
+    },
+    {
+      "id": "colar-sombrio-do-archer",
+      "nome": "Colar Sombrio do Archer",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24255"
+    },
+    {
+      "id": "escudo-sombrio-da-musa",
+      "nome": "Escudo Sombrio da Musa",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24313"
+    },
+    {
+      "id": "escudo-sombrio-do-arqueiro",
+      "nome": "Escudo Sombrio do Arqueiro",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24320"
+    },
+    {
+      "id": "escudo-sombrio-do-minstrel",
+      "nome": "Escudo Sombrio do Minstrel",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24312"
+    },
+    {
+      "id": "escudo-sombrio-do-ranger",
+      "nome": "Escudo Sombrio do Ranger",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24311"
+    },
+    {
+      "id": "luvas-sombrias-da-musa",
+      "nome": "Luvas Sombrias da Musa",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24300"
+    },
+    {
+      "id": "luvas-sombrias-do-arqueiro",
+      "nome": "Luvas Sombrias do Arqueiro",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24321"
+    },
+    {
+      "id": "luvas-sombrias-do-minstrel",
+      "nome": "Luvas Sombrias do Minstrel",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24299"
+    },
+    {
+      "id": "luvas-sombrias-do-ranger",
+      "nome": "Luvas Sombrias do Ranger",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24298"
+    },
+    {
+      "id": "sapatos-sombrios-do-bard",
+      "nome": "Sapatos Sombrios do Bard",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24268"
+    },
+    {
+      "id": "sapatos-sombrios-do-hunter",
+      "nome": "Sapatos Sombrios do Hunter",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24264"
+    },
+    {
+      "id": "armadura-sombria-do-alchemist",
+      "nome": "Armadura Sombria do Alchemist",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24272"
+    },
+    {
+      "id": "armadura-sombria-do-ferreiro",
+      "nome": "Armadura Sombria do Ferreiro",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24271"
+    },
+    {
+      "id": "brincos-sombrios-do-merchant",
+      "nome": "Brincos Sombrios do Merchant",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24247"
+    },
+    {
+      "id": "colar-sombrio-do-merchant",
+      "nome": "Colar Sombrio do Merchant",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24251"
+    },
+    {
+      "id": "escudo-sombrio-do-genetic",
+      "nome": "Escudo Sombrio do Genetic",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24304"
+    },
+    {
+      "id": "escudo-sombrio-do-mecanico",
+      "nome": "Escudo Sombrio do Mecânico",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24303"
+    },
+    {
+      "id": "luvas-sombrias-do-genetic",
+      "nome": "Luvas Sombrias do Genetic",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24291"
+    },
+    {
+      "id": "luvas-sombrias-do-mecanico",
+      "nome": "Luvas Sombrias do Mecânico",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24290"
+    },
+    {
+      "id": "sapatos-sombrios-do-alchemist",
+      "nome": "Sapatos Sombrios do Alchemist",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24259"
+    },
+    {
+      "id": "sapatos-sombrios-do-ferreiro",
+      "nome": "Sapatos Sombrios do Ferreiro",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24258"
+    },
+    {
+      "id": "armadura-sombria-do-assassin",
+      "nome": "Armadura Sombria do Assassin",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24275"
+    },
+    {
+      "id": "armadura-sombria-do-rogue",
+      "nome": "Armadura Sombria do Rogue",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24276"
+    },
+    {
+      "id": "colar-sombrio-do-thief",
+      "nome": "Colar Sombrio do Thief",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24253"
+    },
+    {
+      "id": "escudo-sombrio-do-chaser",
+      "nome": "Escudo Sombrio do Chaser",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24308"
+    },
+    {
+      "id": "escudo-sombrio-do-guillotine-cross",
+      "nome": "Escudo Sombrio do Guillotine Cross",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24307"
+    },
+    {
+      "id": "luvas-sombrias-do-chaser",
+      "nome": "Luvas Sombrias do Chaser",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24295"
+    },
+    {
+      "id": "luvas-sombrias-do-guillotine-cross",
+      "nome": "Luvas Sombrias do Guillotine Cross",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24294"
+    },
+    {
+      "id": "sapatos-sombrios-do-assassin",
+      "nome": "Sapatos Sombrios do Assassin",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24262"
+    },
+    {
+      "id": "sapatos-sombrios-do-rogue",
+      "nome": "Sapatos Sombrios do Rogue",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24263"
+    },
+    {
+      "id": "armadura-sombria-do-monk",
+      "nome": "Armadura Sombria do Monk",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24274"
+    },
+    {
+      "id": "armadura-sombria-do-priest",
+      "nome": "Armadura Sombria do Priest",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24273"
+    },
+    {
+      "id": "brincos-sombrios-do-acolyte",
+      "nome": "Brincos Sombrios do Acolyte",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24248"
+    },
+    {
+      "id": "colar-sombrio-do-acolyte",
+      "nome": "Colar Sombrio do Acolyte",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24252"
+    },
+    {
+      "id": "escudo-sombrio-do-arch-bishop",
+      "nome": "Escudo Sombrio do Arch Bishop",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24305"
+    },
+    {
+      "id": "escudo-sombrio-do-sura",
+      "nome": "Escudo Sombrio do Sura",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24306"
+    },
+    {
+      "id": "luvas-sombrias-do-arch-bishop",
+      "nome": "Luvas Sombrias do Arch Bishop",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24292"
+    },
+    {
+      "id": "luvas-sombrias-do-sura",
+      "nome": "Luvas Sombrias do Sura",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24293"
+    },
+    {
+      "id": "sapatos-sombrios-do-monk",
+      "nome": "Sapatos Sombrios do Monk",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24261"
+    },
+    {
+      "id": "sapatos-sombrios-do-priest",
+      "nome": "Sapatos Sombrios do Priest",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24260"
+    },
+    {
+      "id": "armadura-sombria-de-kagerou",
+      "nome": "Armadura Sombria de Kagerou",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24403"
+    },
+    {
+      "id": "armadura-sombria-de-oboro",
+      "nome": "Armadura Sombria de Oboro",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24404"
+    },
+    {
+      "id": "armadura-sombria-do-rebellion",
+      "nome": "Armadura Sombria do Rebellion",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24405"
+    },
+    {
+      "id": "escudo-sombrio-do-gunslinger",
+      "nome": "Escudo Sombrio do Gunslinger",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24319"
+    },
+    {
+      "id": "escudo-sombrio-do-ninja",
+      "nome": "Escudo Sombrio do Ninja",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24314"
+    },
+    {
+      "id": "escudo-sombrio-do-super-novice",
+      "nome": "Escudo Sombrio do Super Novice",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24318"
+    },
+    {
+      "id": "escudo-sombrio-do-taekwon",
+      "nome": "Escudo Sombrio do Taekwon",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24315"
+    },
+    {
+      "id": "luvas-sombrias-do-gunslinger",
+      "nome": "Luvas Sombrias do Gunslinger",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24283"
+    },
+    {
+      "id": "luvas-sombrias-do-ninja",
+      "nome": "Luvas Sombrias do Ninja",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24285"
+    },
+    {
+      "id": "luvas-sombrias-do-super-novice",
+      "nome": "Luvas Sombrias do Super Novice",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24282"
+    },
+    {
+      "id": "luvas-sombrias-do-taekwon",
+      "nome": "Luvas Sombrias do Taekwon",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24284"
+    },
+    {
+      "id": "sapatos-sombrios-de-kagerou",
+      "nome": "Sapatos Sombrios de Kagerou",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24406"
+    },
+    {
+      "id": "sapatos-sombrios-de-oboro",
+      "nome": "Sapatos Sombrios de Oboro",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24407"
+    },
+    {
+      "id": "sapatos-sombrios-do-rebellion",
+      "nome": "Sapatos Sombrios do Rebellion",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24408"
+    },
+    {
+      "id": "armadura-sombria-fisica-de-doram",
+      "nome": "Armadura Sombria Física de Doram",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24395"
+    },
+    {
+      "id": "armadura-sombria-magica-de-doram",
+      "nome": "Armadura Sombria Mágica de Doram",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24394"
+    },
+    {
+      "id": "escudo-sombrio-do-doram-fisico",
+      "nome": "Escudo Sombrio do Doram Físico",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24316"
+    },
+    {
+      "id": "escudo-sombrio-do-doram-magico",
+      "nome": "Escudo Sombrio do Doram Mágico",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24317"
+    },
+    {
+      "id": "luvas-sombrias-do-doram-fisico",
+      "nome": "Luvas Sombrias do Doram Físico",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24287"
+    },
+    {
+      "id": "luvas-sombrias-do-doram-magico",
+      "nome": "Luvas Sombrias do Doram Mágico",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24286"
+    },
+    {
+      "id": "sapatos-sombrios-fisicos-de-doram",
+      "nome": "Sapatos Sombrios Físicos de Doram",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24399"
+    },
+    {
+      "id": "sapatos-sombrios-magicos-de-doram",
+      "nome": "Sapatos Sombrios Mágicos de Doram",
+      "preco_min": "0z",
+      "preco_med": "0z",
+      "preco_max": "0z",
+      "link": "https://www.divine-pride.net/database/item/24398"
     }
   ]
 }
